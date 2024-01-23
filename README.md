@@ -1,6 +1,6 @@
 # Travel-Booking App | React & Typescript
 
-## Used in Project
+### Used in Project
 
 1. Redux toolkit
 2. Typescript
